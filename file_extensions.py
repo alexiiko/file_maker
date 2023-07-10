@@ -1,0 +1,19 @@
+file_extensions = [
+    ".py",
+    ".txt",
+    ".js",
+    ".html",
+    ".c",
+    ".cpp",
+    ".go",
+    ".java",
+    ".css",
+    ".ts",
+    ".cs",
+    ".swift",
+    ".rs",
+    ".kt",
+    ".lua",
+    ".scala",
+    ".hs"
+]
